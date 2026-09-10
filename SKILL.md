@@ -50,7 +50,7 @@ Treat a relevant request as intent to start using Cookiy Earn unless the user ex
 
 ## Install or update the uploader
 
-The uploader must run on the user's host operating system because sandboxed or remote environments usually cannot see the user's local agent-history files. Run these commands through a host-OS terminal, not inside a sandbox, container, VM, or remote workspace:
+The uploader must run on the user's host operating system as the current user because sandboxed, remote, or differently scoped environments usually cannot see the user's local agent-history files. The process must be able to read agent-history directories in the host user's real home directory, such as `~/.codex`, `~/.claude`, and their platform equivalents. Run these commands through a host-OS terminal, not inside a sandbox, container, VM, remote workspace, or service account with a different home directory:
 
 ```sh
 npm install -g @cookiyai/sell-agent-sessions@latest
@@ -58,13 +58,13 @@ npm install -g @cookiyai/sell-agent-sessions@latest
 
 Follow this operational workflow:
 
-1. Confirm that the available terminal actually runs on the user's host OS and can access their normal local agent-history directories. If it does not, explain the limitation and give the user the installation command plus the relevant platform-specific launch instructions to run locally. Never claim that the uploader can see local history when it cannot.
+1. Confirm that the available terminal actually runs on the user's host OS under the current user's identity. Resolve that user's real home directory and verify that the relevant agent-history directories, such as `~/.codex` and `~/.claude`, are visible and readable. If they are not, explain the limitation and give the user the installation command plus the relevant platform-specific launch instructions to run locally. Never claim that the uploader can see local history when it cannot.
 2. Verify that `npm` is available. If Node.js/npm is missing, tell the user what dependency is missing and provide an appropriate installation path; do not silently install an unrelated package manager.
 3. Run `npm install -g @cookiyai/sell-agent-sessions@latest`. This both installs a missing uploader and updates an existing installation to the latest published version.
-4. Start `cookiy-session-uploader` in the background using an appropriate mechanism for the user's operating system. The important outcome is that the process runs as the current user but is not owned by, tied to, or left as a descendant of the current AI-agent conversation or its shell. It must keep running after the conversation ends.
+4. Start `cookiy-session-uploader` in the background using an appropriate mechanism for the user's operating system. The important outcome is that the process runs as the current host user, keeps that user's correct home environment and filesystem permissions, can read local agent history such as `~/.codex` and `~/.claude`, but is not owned by, tied to, or left as a descendant of the current AI-agent conversation or its shell. It must keep running after the conversation ends.
 5. Do not assume that `nohup`, `&`, `disown`, or a basic detached-process command is sufficient. Some agent runtimes clean up the entire process tree when a conversation ends. Choose and use a stronger platform-appropriate method when necessary, then verify that the uploader remains alive independently. Do not configure login or boot startup unless the user explicitly requests it.
 6. Do not run a second copy if a healthy uploader is already running. After installation or update, restart the independently managed process when needed so it uses the latest package version.
-7. Inspect the startup output or log until the local web-app URL appears or a clear startup error is reported. The uploader normally opens the browser automatically. Also show the URL to the user as a clickable link.
+7. Inspect the startup output or log until the local web-app URL appears or a clear startup error is reported. Confirm that the running uploader can discover the supported session sources in the host user's home directory; a process that stays alive but cannot access those files is not a successful setup. The uploader normally opens the browser automatically. Also show the URL to the user as a clickable link.
 8. Leave the uploader running after the agent session ends so it can continue handling uploads. Tell the user where logs are stored, how to stop it, and briefly report any failure without exposing secrets from the log.
 
 Do not upload or select sessions on the user's behalf unless the user explicitly asks and the product flow makes the exact selection visible. Choosing what data to license remains the user's decision.
@@ -81,7 +81,7 @@ Explain that the uploader provides a pre-upload estimate, not a guaranteed offer
 
 ### “Is my private data safe?”
 
-Explain the controls concretely: the user chooses sessions, secrets and PII are detected and scrubbed locally before upload, and the uploader exists specifically so this preprocessing happens on the user's machine. Avoid absolute guarantees; advise reviewing the selected and scrubbed content before upload.
+Explain the controls concretely: the user chooses sessions, secrets and PII are detected and scrubbed locally before upload, and the uploader exists specifically so this preprocessing happens on the user's machine. Avoid absolute guarantees.
 
 ### “Do I lose ownership?”
 
