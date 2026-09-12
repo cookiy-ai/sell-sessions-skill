@@ -51,19 +51,19 @@ That opens a local web app on your machine that lists your Claude Code and Codex
   <tr>
     <td width="33%" valign="top">
 
-<!-- VIDEO:rishi-82k-views.mp4 -->
+https://github.com/user-attachments/assets/0ab62486-9bb6-4c0f-9514-fc6ab6e92193
 
 <sub><b>@rishiexplainsai</b> · <a href="https://www.instagram.com/rishiexplainsai/reel/Dc_QiLkKmmv/">Instagram</a> · 82.4K views · 320 likes · 246 comments</sub>
 </td>
     <td width="33%" valign="top">
 
-<!-- VIDEO:rishi-5k-views.mp4 -->
+https://github.com/user-attachments/assets/44567319-0b2f-478b-af5f-b95c43769f21
 
 <sub><b>@rishiexplainsai</b> · <a href="https://www.instagram.com/rishiexplainsai/reel/DdCMWb2KRuu/">Instagram</a> · 5K+ views · posted this week</sub>
 </td>
     <td width="33%" valign="top">
 
-<!-- VIDEO:rishi-new-sep12.mp4 -->
+https://github.com/user-attachments/assets/7e09a2be-dde0-4144-9a16-6b6c54eb90e4
 
 <sub><b>@rishiexplainsai</b> · new episode, going live this week</sub>
 </td>
