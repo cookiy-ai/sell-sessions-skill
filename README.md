@@ -49,18 +49,24 @@ That opens a local web app on your machine that lists your Claude Code and Codex
 
 <table>
   <tr>
-    <td width="33%" align="center">
-      <a href="https://www.instagram.com/rishiexplainsai/reel/Dc_QiLkKmmv/"><img src="assets/creator-rishi-82k.jpg" alt="Your Claude Code history is worth money" width="100%"></a><br>
-      <sub><b>@rishiexplainsai</b> · 82.4K views · 320 likes · 246 comments</sub>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://www.instagram.com/rishiexplainsai/reel/Dc1YN1nKC95/"><img src="assets/creator-rishi-69k.jpg" alt="Cookiy AI's skill for Claude Code" width="100%"></a><br>
-      <sub><b>@rishiexplainsai</b> · 69K views · 1.3K likes · 363 comments</sub>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://www.instagram.com/rishiexplainsai/reel/DdCMWb2KRuu/"><img src="assets/creator-rishi-5k.jpg" alt="Your coding history could be worth more" width="100%"></a><br>
-      <sub><b>@rishiexplainsai</b> · 5K+ views · new this week</sub>
-    </td>
+    <td width="33%" valign="top">
+
+<!-- VIDEO:rishi-82k-views.mp4 -->
+
+<sub><b>@rishiexplainsai</b> · <a href="https://www.instagram.com/rishiexplainsai/reel/Dc_QiLkKmmv/">Instagram</a> · 82.4K views · 320 likes · 246 comments</sub>
+</td>
+    <td width="33%" valign="top">
+
+<!-- VIDEO:rishi-5k-views.mp4 -->
+
+<sub><b>@rishiexplainsai</b> · <a href="https://www.instagram.com/rishiexplainsai/reel/DdCMWb2KRuu/">Instagram</a> · 5K+ views · posted this week</sub>
+</td>
+    <td width="33%" valign="top">
+
+<!-- VIDEO:rishi-new-sep12.mp4 -->
+
+<sub><b>@rishiexplainsai</b> · new episode, going live this week</sub>
+</td>
   </tr>
 </table>
 
@@ -68,16 +74,56 @@ That opens a local web app on your machine that lists your Claude Code and Codex
 
 <table>
   <tr>
-    <td width="25%" align="center"><img src="assets/creator-02.jpg" width="100%" alt=""><br><sub>"Nothing goes without your approval. If you find something confidential, you just redact it."</sub></td>
-    <td width="25%" align="center"><img src="assets/creator-05.jpg" width="100%" alt=""><br><sub>"Buyers aren't after random prompts. They want sessions from engineers who know what they're doing."</sub></td>
-    <td width="25%" align="center"><img src="assets/creator-03.jpg" width="100%" alt=""><br><sub>"I'm the guy who reads every Terms page. Nothing is sent until you approve it yourself."</sub></td>
-    <td width="25%" align="center"><img src="assets/creator-08.jpg" width="100%" alt=""><br><sub>"I run infrastructure for a living. No daemons, no phone-home. Only what you approve gets sent."</sub></td>
+    <td width="25%" valign="top">
+
+<!-- VIDEO:creator-02.mp4 -->
+
+<sub>"Nothing goes without your approval. If you find something confidential, you just redact it."</sub>
+</td>
+    <td width="25%" valign="top">
+
+<!-- VIDEO:creator-05.mp4 -->
+
+<sub>"Buyers aren't after random prompts. They want sessions from engineers who know what they're doing."</sub>
+</td>
+    <td width="25%" valign="top">
+
+<!-- VIDEO:creator-03.mp4 -->
+
+<sub>"I'm the guy who reads every Terms page. Nothing is sent until you approve it yourself."</sub>
+</td>
+    <td width="25%" valign="top">
+
+<!-- VIDEO:creator-08.mp4 -->
+
+<sub>"I run infrastructure for a living. No daemons, no phone-home. Only what you approve gets sent."</sub>
+</td>
   </tr>
   <tr>
-    <td width="25%" align="center"><img src="assets/creator-06.jpg" width="100%" alt=""><br><sub>"No new hours, no second job grind. The work is already finished."</sub></td>
-    <td width="25%" align="center"><img src="assets/creator-09.jpg" width="100%" alt=""><br><sub>"I'm the paranoid friend who tapes his webcam, and even I signed off."</sub></td>
-    <td width="25%" align="center"><img src="assets/creator-04.jpg" width="100%" alt=""><br><sub>"The valuable piece isn't the code. It's the corrections."</sub></td>
-    <td width="25%" align="center"><img src="assets/creator-10.jpg" width="100%" alt=""><br><sub>"900 sessions, 40 projects. I had no idea it ran this deep."</sub></td>
+    <td width="25%" valign="top">
+
+<!-- VIDEO:creator-06.mp4 -->
+
+<sub>"No new hours, no second job grind. The work is already finished."</sub>
+</td>
+    <td width="25%" valign="top">
+
+<!-- VIDEO:creator-09.mp4 -->
+
+<sub>"I'm the paranoid friend who tapes his webcam, and even I signed off."</sub>
+</td>
+    <td width="25%" valign="top">
+
+<!-- VIDEO:creator-04.mp4 -->
+
+<sub>"The valuable piece isn't the code. It's the corrections."</sub>
+</td>
+    <td width="25%" valign="top">
+
+<!-- VIDEO:creator-10.mp4 -->
+
+<sub>"900 sessions, 40 projects. I had no idea it ran this deep."</sub>
+</td>
   </tr>
 </table>
 
