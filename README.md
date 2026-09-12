@@ -1,13 +1,13 @@
 <!-- Part of the Cookiy sell-sessions skill · https://github.com/cookiy-ai/sell-sessions-skill -->
 
 <p align="center">
-  <img src="assets/banner-light.jpg" alt="Sell your agent sessions. Get paid when they sell." width="100%">
+  <img src="assets/banner-light.jpg" alt="Your agent history is worth money. Sell the sessions you already ran." width="100%">
 </p>
 
-<h1 align="center">Sell Your AI Agent Sessions</h1>
+<h1 align="center">Your agent history is worth money.</h1>
 
 <p align="center">
-  <b>The open-source skill that turns your Claude Code and Codex history into licensed, paid data.</b><br>
+  <b>Sell the Claude Code and Codex sessions you already ran. Open-source skill + local uploader.</b><br>
   Runs locally · You choose every session · Secrets and PII scrubbed on your machine · Paid on every sale
 </p>
 
