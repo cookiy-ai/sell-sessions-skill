@@ -64,20 +64,24 @@ That opens a local web app on your machine that lists your Claude Code and Codex
   </tr>
 </table>
 
-<details>
-<summary><b>What builders say after trying it</b></summary>
-<br>
+### What builders say after trying it
 
-> *"I'm the guy who reads every Terms page before clicking anything. Nothing is sent until you approve it yourself. If a skeptic like me got comfortable, that says a lot."*
+<table>
+  <tr>
+    <td width="25%" align="center"><img src="assets/creator-02.jpg" width="100%" alt=""><br><sub>"Nothing goes without your approval. If you find something confidential, you just redact it."</sub></td>
+    <td width="25%" align="center"><img src="assets/creator-05.jpg" width="100%" alt=""><br><sub>"Buyers aren't after random prompts. They want sessions from engineers who know what they're doing."</sub></td>
+    <td width="25%" align="center"><img src="assets/creator-03.jpg" width="100%" alt=""><br><sub>"I'm the guy who reads every Terms page. Nothing is sent until you approve it yourself."</sub></td>
+    <td width="25%" align="center"><img src="assets/creator-08.jpg" width="100%" alt=""><br><sub>"I run infrastructure for a living. No daemons, no phone-home. Only what you approve gets sent."</sub></td>
+  </tr>
+  <tr>
+    <td width="25%" align="center"><img src="assets/creator-06.jpg" width="100%" alt=""><br><sub>"No new hours, no second job grind. The work is already finished."</sub></td>
+    <td width="25%" align="center"><img src="assets/creator-09.jpg" width="100%" alt=""><br><sub>"I'm the paranoid friend who tapes his webcam, and even I signed off."</sub></td>
+    <td width="25%" align="center"><img src="assets/creator-04.jpg" width="100%" alt=""><br><sub>"The valuable piece isn't the code. It's the corrections."</sub></td>
+    <td width="25%" align="center"><img src="assets/creator-10.jpg" width="100%" alt=""><br><sub>"900 sessions, 40 projects. I had no idea it ran this deep."</sub></td>
+  </tr>
+</table>
 
-> *"The valuable piece isn't the code; it's the corrections. Fifteen years of experience showing up as hundreds of little overrides."*
-
-> *"I trust nothing by default. I run infrastructure for a living. No background daemons, no phone-home. Only what you approve ever gets sent."*
-
-> *"It's the only side hustle where you start out already done."*
-
-<sub>Quotes from the first batch of 20 creator videos, September 2026.</sub>
-</details>
+<p align="center"><sub>Batch 1 of the creator program: 20 videos, September 2026. 200 more in production.</sub></p>
 
 ---
 
