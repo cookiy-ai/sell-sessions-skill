@@ -76,25 +76,25 @@ https://github.com/user-attachments/assets/7e09a2be-dde0-4144-9a16-6b6c54eb90e4
   <tr>
     <td width="25%" valign="top">
 
-<!-- VIDEO:creator-02.mp4 -->
+https://github.com/user-attachments/assets/f022482f-3686-4b0e-99d7-bd3ec57fc739
 
 <sub>"Nothing goes without your approval. If you find something confidential, you just redact it."</sub>
 </td>
     <td width="25%" valign="top">
 
-<!-- VIDEO:creator-05.mp4 -->
+https://github.com/user-attachments/assets/0312c0c5-d602-40da-80d7-062389a27df6
 
 <sub>"Buyers aren't after random prompts. They want sessions from engineers who know what they're doing."</sub>
 </td>
     <td width="25%" valign="top">
 
-<!-- VIDEO:creator-03.mp4 -->
+https://github.com/user-attachments/assets/19a56aea-22df-4ac0-89a3-2e7a5c5a3d21
 
 <sub>"I'm the guy who reads every Terms page. Nothing is sent until you approve it yourself."</sub>
 </td>
     <td width="25%" valign="top">
 
-<!-- VIDEO:creator-08.mp4 -->
+https://github.com/user-attachments/assets/cbb8fff3-895c-4e3e-892a-f71ce451645a
 
 <sub>"I run infrastructure for a living. No daemons, no phone-home. Only what you approve gets sent."</sub>
 </td>
@@ -102,25 +102,25 @@ https://github.com/user-attachments/assets/7e09a2be-dde0-4144-9a16-6b6c54eb90e4
   <tr>
     <td width="25%" valign="top">
 
-<!-- VIDEO:creator-06.mp4 -->
+https://github.com/user-attachments/assets/420f4438-909b-4b5b-a142-d8163ef2167b
 
 <sub>"No new hours, no second job grind. The work is already finished."</sub>
 </td>
     <td width="25%" valign="top">
 
-<!-- VIDEO:creator-09.mp4 -->
+https://github.com/user-attachments/assets/ec3e5c1a-16ed-44ec-b61a-0f629ac5f6d6
 
 <sub>"I'm the paranoid friend who tapes his webcam, and even I signed off."</sub>
 </td>
     <td width="25%" valign="top">
 
-<!-- VIDEO:creator-04.mp4 -->
+https://github.com/user-attachments/assets/e13dd45b-e8e2-48ae-a1a7-7618cd7c889e
 
 <sub>"The valuable piece isn't the code. It's the corrections."</sub>
 </td>
     <td width="25%" valign="top">
 
-<!-- VIDEO:creator-10.mp4 -->
+https://github.com/user-attachments/assets/b9f9a7f1-563f-4fe9-9002-22bd7a42f2b3
 
 <sub>"900 sessions, 40 projects. I had no idea it ran this deep."</sub>
 </td>
